@@ -1,0 +1,24 @@
+#title {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 120px;
+  text-align: center;
+  margin-top: 200px;
+}
+
+#buttons {
+  padding-left: 1vw;
+  text-align: center;
+}
+
+#buttons button {
+  margin: 30px 100px;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: rgb(55, 151, 168);
+  color: white;
+  height: 100px;
+  width: 275px;
+  cursor: pointer;
+}
